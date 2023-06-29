@@ -19,7 +19,7 @@ import seml
 from LCP_utils import AggMo, NpyDataset
 from models import project_network_weights, FCNet, wideresnet
 from data_loader import get_loader
-from data_loader_TL import  get_loader as get_loader_TL
+from data_loader_subset import  get_loader as get_loader_TL
 from utils import write_json, copy_file
 from foolbox_attack import foolbox_attack
 
