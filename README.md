@@ -13,3 +13,7 @@ Repository contains sample code for
 - median smoothing
 - center smoothing
 - obtaining theoretical lower bounds on the adversarial robustness of a retrained deep learning model
+
+### Open To Dos
+- Refactor & simplify code
+- Add comprehensive documentation on all levels (project-level, code files, function docstrings)
